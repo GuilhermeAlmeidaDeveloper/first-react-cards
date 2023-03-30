@@ -1,0 +1,12 @@
+.btn-orange {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 201px;
+    height: 49px;
+    border-radius: 5px;
+    color: white;
+    background-color: #ED6755;
+    margin-top: 40px;
+    cursor: pointer;
+}
